@@ -1,0 +1,16 @@
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.pdb
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\obj\Debug\APIAutomation.csprojAssemblyReference.cache
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\obj\Debug\APIAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\obj\Debug\APIAutomation.csproj.CopyComplete
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\obj\Debug\APIAutomation.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\obj\Debug\APIAutomation.pdb
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vikas\source\repos\APIAutomation\APIAutomation\bin\Debug\Newtonsoft.Json.xml
